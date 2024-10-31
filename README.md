@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Gaurav Malwe 👋
 
-<!--
-**Gaurav-malwe/Gaurav-malwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools
+- **Programming Languages:** Go, Python, NodeJS
+- **Frameworks:** Flask, Angular, Gin
+- **Databases:** MongoDB, PostgreSQL, MySQL, DynamoDB
+- **DevOps:** Docker, Nginx, AWS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- LinkedIn: [Gaurav Malwe](https://www.linkedin.com/in/gaurav-malwe/)  
+- Email: gsmalwe@gmail.com
+- Drop me a mail, I will be happy to showcase my work.
