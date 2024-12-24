@@ -3,9 +3,9 @@
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages:** Go, Python, NodeJS
-- **Frameworks:** Flask, Angular, Gin
+- **Frameworks:** Flask, Angular, Gin, Django
 - **Databases:** MongoDB, PostgreSQL, MySQL, DynamoDB
-- **DevOps:** Docker, Nginx, AWS
+- **DevOps:** AWS, Docker, Nginx, serverless.com
 
 ## 📫 How to Reach Me
 - LinkedIn: [Gaurav Malwe](https://www.linkedin.com/in/gaurav-malwe/)  
